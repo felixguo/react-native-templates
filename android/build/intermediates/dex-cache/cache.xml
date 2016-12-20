@@ -2,165 +2,165 @@
 <items version="2" >
 
     <item
-        jar="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-9096f5d20a085381dff6b2403eb193133122df3d.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/libs/infer-annotations-1.5.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5268ed090600db4ceb72b055927f4f9cbd79465c">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-706e721fb07d2038765f828b6e99ee76da76250b.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-80e596dac1a8929b1d992c22cc136993185bbbd1.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-3201b4984fa298a1ea6ca09e3b3c398dab5d40af.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="63994437f62bc861bc20c605d12962f7246116d1">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-9e1b2fb7fb029d086fde9c7cd304da3488eb425f.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-319797360ac3aa77c1a0c19da0c03317ca3c90e0.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-9d7073ea111274ce4f99794847095205e5bbd6cf.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jar="/Users/felix/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-3b74076d12b4f526853d19de08717d1f4babb3cb.jar" />
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-557a8d3aa6369a94c03615be4311ada0c6be13ba.jar" />
     </item>
     <item
-        jar="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-6f567db9b78fc6d9b57f036eedd9923a30e20bac.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-96ad7ebf3d5b88d892ac78a8df4ab90817753310.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-556263dc5b6b0703429a77163616d49feb4e5dd1.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-e4d51560bef7bbea99f3842dcfe7ff1848fd610d.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-9655548961480ea10d080975b3724ed584694f2f.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-b5aaa6696ac4b15aa5eec87bc790ac14bf72f870.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-28235ee37db04923c03652f583f24f9945e9d36a.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-3533ce83eeaf675933f6d3ad5318c1d8d0283cfd.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="035e9c4ef05bd4e0f34f48fbfb073f98fcf58af0">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-e3c8e78db927388fdff25736bb110185f68a75ea.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-8ad86523fa61cb6b89f2e46b96163e5ba1d7ba60.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-f6a1ed3fe3c2d1ba8d5b04ce0fa637bcb27131cd.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-37ee1217a6a6a3d1f64487326fa77a7a49eb1983.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-bafdab2cd70d6fcb63c13c7e3acb31e573d09306.jar" />
-    </item>
-    <item
-        jar="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jar="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-7d1638f5c33be9b31a8bc86da0944216ac17ee30.jar" />
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-cee20fc26e297f9b30f254056442b63eb9051ab5.jar" />
     </item>
     <item
-        jar="/Users/zhongqi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jar="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-7b3eb14699ebacde00151fbe387cb0078c136b36.jar" />
+    </item>
+    <item
+        jar="/Users/felix/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/Users/zhongqi/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-cf75c41d5e8a16e65860e0baed0e9e7dd5c8651a.jar" />
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-72c384f7cad908b0a20a4742e60b58b665ffb578.jar" />
+    </item>
+    <item
+        jar="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-6ca87c98c39d9d25724148d4be11c174258cbb16.jar" />
+    </item>
+    <item
+        jar="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-4b73b7c28f5b6b1e7274ca40cd0e56298aadd00a.jar" />
+    </item>
+    <item
+        jar="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-7910ea39d11686cb966ea8ea3fd12f919c121810.jar" />
+    </item>
+    <item
+        jar="/Users/felix/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-08c61ca8eb28e780fd6caccb9b24286ce108175f.jar" />
+    </item>
+    <item
+        jar="/Users/felix/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-a9cc1dd3c1c2bad910dc5aacb0ae9097aa07abe0.jar" />
+    </item>
+    <item
+        jar="/Users/felix/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-9cb964cc993ab42e9530562fe72c75ce95675efb.jar" />
+    </item>
+    <item
+        jar="/Users/felix/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-5395980aeb18184b3c56144f5595f3378a530941.jar" />
+    </item>
+    <item
+        jar="/Users/felix/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-de76b4c368884ebb6b2a4a53a1c42cc085efd39e.jar" />
+    </item>
+    <item
+        jar="/Users/felix/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-e3106b386c92682d152d5040020e0ea359eaa060.jar" />
+    </item>
+    <item
+        jar="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-f1dfe34bbf5600467bf0c246a47c418e1b62c6d9.jar" />
+    </item>
+    <item
+        jar="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5268ed090600db4ceb72b055927f4f9cbd79465c">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-423e22776ebf064b47be6c1f9dfc8834fffe29f5.jar" />
+    </item>
+    <item
+        jar="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-1a59dc63d2646dccbe48831c98b70fec29ff54b5.jar" />
+    </item>
+    <item
+        jar="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-4ea906ae6cfa1769f1ebb75ce793dedcfc9e1fb6.jar" />
+    </item>
+    <item
+        jar="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-fb0f833b749af6276e4d2cf46ec11aa230324bca.jar" />
+    </item>
+    <item
+        jar="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="035e9c4ef05bd4e0f34f48fbfb073f98fcf58af0">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-73eddc74293f27d8fff624691f855dd55dcf477f.jar" />
+    </item>
+    <item
+        jar="/Users/felix/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-49a829b4bdc89b165bc94e107e8cd7312551d41b.jar" />
+    </item>
+    <item
+        jar="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-c321cedb59006c47851dd59388a9fc665df24d69.jar" />
+    </item>
+    <item
+        jar="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/classes-a27f480a11cfdbfaf4bc12dabb71e7d458ccfe19.jar" />
+    </item>
+    <item
+        jar="/Users/felix/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/felix/Projects/react-native-templates/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-717fc1b070ef787836eb45f423312417edd93d44.jar" />
     </item>
 
 </items>
